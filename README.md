@@ -20,8 +20,11 @@ While my background includes work in micromagnetic simulations, I am always keen
  **Publications:**  
 - **"Vision for Unified Micromagnetic Modeling (UMM) with Ubermag" (2024)**  
   *Hans Fangohr, Martin Lang, Samuel J. R. Holt, Swapneel Amit Pathak, Kauser Zulfiqar, Marijan Beg*  
-   [DOI: 10.1063/9.0000661](http://doi.org/10.1063/9.0000661)  
-
+   [DOI: 10.1063/9.0000661](http://doi.org/10.1063/9.0000661)
+- **"Virtual experiments in computational magnetism with mag2exp" (2025)**
+  *Samuel J. R. Holt, Martin Lang, James C. Loudon, Thomas J. Hicken, Dieter Suess, David Cortés-Ortuño, Swapneel A. Pathak, Marijan Beg, Kauser Zulfiqar & Hans Fangohr*
+  [DOI: 10.1038/s41524-025-01686-3](https://doi.org/10.1038/s41524-025-01686-3)
+  
 ## **Honours & Awards**  
 - **Distinction in B.Sc. (Hons) Physics** – Government College University, Lahore (2012) 
 - **Employee of the Year** – Quaid-e-Azam College (2019)  
@@ -35,4 +38,4 @@ While my background includes work in micromagnetic simulations, I am always keen
 
 ##  **Get in Touch**  
  **LinkedIn:** [Kauser Zulfiqar](https://www.linkedin.com/in/kauser-zulfiqar/)  
- **Email:** kauserqureshi87@gmail.com  
+ **Email:** kauserzulfiqar.2001@gmail.com  
