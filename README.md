@@ -1,41 +1,101 @@
-# **Kauser Zulfiqar**  
-**Computational Scientist | Python | Data Analysis**  
+# 👋 Hi, I'm Kauser Zulfiqar
 
-## **About Me**  
-I am a computational researcher and problem solver with a strong foundation in Python programming, numerical simulations, and data-driven analysis. My interests lie at the intersection of theoretical physics, computational modelling, and real-world applications.
+**Computational Physicist · Scientific Computing · Simulation & Data Analysis**
 
-While my background includes work in micromagnetic simulations, I am always keen to explore diverse scientific challenges. I thrive in research-intensive environments, whether in academia or industry, where I can apply my expertise in Python-based scientific computing to solve complex problems. 
+[![Location](https://img.shields.io/badge/Location-Hamburg%2C%20Germany-blue)](https://www.google.com/maps/place/Hamburg)
+[![Email](https://img.shields.io/badge/Email-kauserzulfiqar.2001%40gmail.com-red)](mailto:kauserzulfiqar.2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/kauserzulfiqar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/kauserzulfiqar)
 
-## **Research Interests**  
-- **Computational Modelling** – Applied numerical methods for magnetic systems  
-- **Data Science & Machine Learning** – Signal processing, Fourier analysis, and time-series modelling in physics  
-- **High-Performance Computing (HPC)** – Efficient computation of large-scale data.
+---
 
-## **Technical Skills**  
-- **Programming & Computational Tools:** Python, NumPy, Pandas, Matplotlib, Jupyter Notebook, Git & GitHub, LaTeX  
-- **Micromagnetic Simulation Frameworks:** Ubermag, MuMax3, OOMMF  
-- **Data Analysis & Machine Learning:** Fourier Transform methods, Signal Processing, Deep Learning  
-- **Scientific Software & Environments:** Anaconda, C & C++, Microsoft Office
+### 🔬 About Me
 
- **Publications:**  
-- **"Vision for Unified Micromagnetic Modeling (UMM) with Ubermag" (2024)**  
-  *Hans Fangohr, Martin Lang, Samuel J. R. Holt, Swapneel Amit Pathak, Kauser Zulfiqar, Marijan Beg*  
-   [DOI: 10.1063/9.0000661](http://doi.org/10.1063/9.0000661)
-- **"Virtual experiments in computational magnetism with mag2exp" (2025)**
-  *Samuel J. R. Holt, Martin Lang, James C. Loudon, Thomas J. Hicken, Dieter Suess, David Cortés-Ortuño, Swapneel A. Pathak, Marijan Beg, Kauser Zulfiqar & Hans Fangohr*
-   [DOI: 10.1038/s41524-025-01686-3](https://doi.org/10.1038/s41524-025-01686-3)
-  
-## **Honours & Awards**  
-- **Distinction in B.Sc. (Hons) Physics** – Government College University, Lahore (2012) 
-- **Employee of the Year** – Quaid-e-Azam College (2019)  
+I'm a computational physicist pursuing my PhD at the **Max Planck Institute for the Structure and Dynamics of Matter (MPSD)** and **DESY** in Hamburg. My research sits at the intersection of **condensed matter theory, numerical simulation, and high-performance computing** — I study magnetic nanostructures, skyrmion dynamics, and resonant excitations in synthetic antiferromagnets.
 
-## **Conferences & Publications**  
- **Conferences & Presentations:**  
-- **8th CFEL-Symposium, Germany (2024)** – Poster Presentation  
-- **International Conference on Skyrmionics, Germany (2024)** – Poster Presentation  
-- **SolSkyMag, Spain (2024)** – Contributed Talk  
-- **European School on Magnetism, Spain (2023)** – Poster Presentation  
+I build reproducible, open-source scientific software and contribute to the [Ubermag](https://ubermag.github.io/) ecosystem. I care deeply about clean code, rigorous testing, and making computational science accessible.
 
-##  **Get in Touch**  
- **LinkedIn:** [Kauser Zulfiqar](https://www.linkedin.com/in/kauser-zulfiqar/)  
- **Email:** kauserzulfiqar.2001@gmail.com  
+---
+
+### 🧠 Research & Expertise
+
+**Magnetic Nanostructures & Spin Dynamics**
+- Micromagnetic simulations (Ubermag, Magnum.np) of skyrmions, synthetic antiferromagnets, and thin films
+- Finite-difference methods and numerical PDE workflows
+- FFT-based spectral analysis, eigenmode analysis, and spatially resolved post-processing
+
+**Scientific Machine Learning**
+- Parameter-space exploration and predictive modelling of simulation data
+- Classification and regression with scikit-learn, PyTorch, TensorFlow
+- Hyperparameter optimisation via Optuna
+
+---
+
+### 🛠 Tech Stack
+
+| Domain | Tools & Libraries |
+|--------|-------------------|
+| **Languages** | Python, C/C++, Bash |
+| **Scientific Computing** | NumPy, SciPy, pandas, xarray, Jupyter |
+| **ML & Data** | scikit-learn, PyTorch, TensorFlow, Optuna |
+| **Simulation** | Ubermag, Magnum.np, CUDA |
+| **Visualisation** | Matplotlib, Plotly, Dash |
+| **HPC & DevOps** | Linux, Slurm, Docker, CI/CD, Git, GitHub, GitLab |
+| **Quality & Testing** | pytest, Selenium, JMeter, Postman |
+| **Writing & Docs** | LaTeX, Markdown, Sphinx |
+
+---
+
+### 📚 Selected Publications
+
+- 📄 **Eigenmodes of Synthetic Antiferromagnetic Skyrmions** — *preprint* (2026)
+- 📄 **Vision for Unified Micromagnetic Modeling (UMM) with Ubermag** — *AIP Advances* (2024)
+- 📄 **Virtual Experiments in Computational Magnetism with mag2exp** — *npj* (2025)
+
+---
+
+### 🎤 Conferences & Talks
+
+| Conference | Location | Type | Year |
+|------------|----------|------|------|
+| DPG Spring Meeting | Regensburg, Germany | Poster | 2025 |
+| Intermag-MMM | New Orleans, USA | Poster | 2025 |
+| SolSkyMag | San Sebastián, Spain | Talk | 2024 |
+| Intl. Conf. on Skyrmionics | Kloster Seeon, Germany | Poster | 2024 |
+| CFEL Symposium | Timmendorfer, Germany | Poster | 2024 |
+| Young Researchers Retreat | Dietmannsried, Germany | Poster | 2024 |
+| European School on Magnetism | Madrid, Spain | Poster | 2023 |
+| Frontiers in Physics | GCU Lahore, Pakistan | — | 2020 |
+
+---
+
+### 🏆 Honours & Awards
+
+- 🥇 **HEC–DAAD Scholarship** (2021) — fully funded PhD fellowship
+- 🥇 **European School on Magnetism** (2023) — competitive selection
+- 🥇 **Distinction in B.Sc. (Hons.)** — GCU Lahore
+
+---
+
+### 🗣 Languages
+
+- 🇬🇧 English — C1 (proficient)
+- 🇩🇪 German — B1 (intermediate)
+- 🇵🇰 Urdu — native
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kauserzulfiqar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauserzulfiqar&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate
+
+I'm always excited to connect with researchers, developers, and open-source enthusiasts working on computational physics, scientific software, or numerical methods. Whether it's a paper, a package, or a side project — reach out!
+
+> *"The goal is to turn data into insight, and insight into reproducible science."*
